@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 # Ashish John
 ##### ashishjohnpj@gmail.com
 ##### 07436920480
-<figure><img src="pictures/aj.png"><figcaption>image caption</figcaption></figure>
+<figure><img src="user-images.githubusercontent.com/106823297/216442425-a0660b9e-0513-4933-99c2-00f6914981b7.PNG"><figcaption>image caption</figcaption></figure>
 ![aj](https://user-images.githubusercontent.com/106823297/216442425-a0660b9e-0513-4933-99c2-00f6914981b7.PNG)
