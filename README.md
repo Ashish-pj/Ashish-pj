@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ashish John
-###### currently working on
+##### ashishjohnpj@gmail.com
+##### 07436920480
+<figure><img src="pictures/aj.png"><figcaption>image caption</figcaption></figure>
